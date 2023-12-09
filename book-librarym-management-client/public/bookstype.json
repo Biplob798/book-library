@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://i.ibb.co/Jm6dbSV/novelcover.jpg",
+        "category": "Novel"
+    },
+    {
+        "image": "https://i.ibb.co/3SMZ2jJ/thrillercover.jpg",
+        "category": "Thriller"
+    },
+    {
+        "image": "https://i.ibb.co/pK7qJy4/scincover.jpg",
+        "category": "Science Fiction"
+    },
+    {
+        "image": "https://i.ibb.co/Sw55P83/historycover.jpg",
+        "category": "History"
+    },
+    {
+        "image": "https://i.ibb.co/rF1GxWp/dramacover.jpg",
+        "category": "Drama"
+    },
+    {
+        "image": "https://i.ibb.co/dc8TH8C/fantcover.jpg",
+        "category": "Fantasy"
+    }
+]

@@ -1,0 +1,154 @@
+[
+    {
+        "image": "https://i.ibb.co/Jm6dbSV/novelcover.jpg",
+        "category": "Novel"
+    },
+    {
+        "image": "https://i.ibb.co/3SMZ2jJ/thrillercover.jpg",
+        "category": "Thriller"
+    },
+    {
+        "image": "https://i.ibb.co/pK7qJy4/scincover.jpg",
+        "category": "Science Fiction"
+    },
+    {
+        "image": "https://i.ibb.co/Sw55P83/historycover.jpg",
+        "category": "History"
+    },
+    {
+        "image": "https://i.ibb.co/rF1GxWp/dramacover.jpg",
+        "category": "Drama"
+    },
+    {
+        "image": "https://i.ibb.co/dc8TH8C/fantcover.jpg",
+        "category": "Fantasy"
+    },
+    {
+        "image": "https://i.ibb.co/kmszQNh/novel1.jpg",
+        "name": "The Enigmatic Journey",
+        "author": "Alice Walker",
+        "category": "Novel",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/FwPw634/novel2.jpg",
+        "name": "Whispers in the Wind",
+        "author": "Linda Carter",
+        "category": "Novel",
+        "sampleContent": "In the quiet corner of the enchanted garden, Lily and James shared laughter and dreams. The scent of blooming roses hung in the air as they made promises that would shape their futures. Little did they know, amidst the petals and whispers of the wind, their destinies were entwined, waiting to blossom like the flowers around them.",
+        "rating": 4.6
+    },
+    {
+        "image": "https://i.ibb.co/txw9NDB/novel3.jpg",
+        "name": "The Captivating Mirage",
+        "author": "Robert Harris",
+        "category": "Novel",
+        "sampleContent": "In the quiet corner of the enchanted garden, Lily and James shared laughter and dreams. The scent of blooming roses hung in the air as they made promises that would shape their futures. Little did they know, amidst the petals and whispers of the wind, their destinies were entwined, waiting to blossom like the flowers around them.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/8sWr6q3/novel4.jpg",
+        "name": "Eternal Echoes",
+        "author": "John Smith",
+        "category": "Novel",
+        "sampleContent": "In the quiet corner of the enchanted garden, Lily and James shared laughter and dreams. The scent of blooming roses hung in the air as they made promises that would shape their futures. Little did they know, amidst the petals and whispers of the wind, their destinies were entwined, waiting to blossom like the flowers around them.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/mbbFWYS/drama1.jpg",
+        "name": "Shattered Dreams",
+        "author": "Emily White",
+        "category": "Drama",
+        "sampleContent": "The room was heavy with unspoken words, each silence echoing the pain of broken promises. Sarah's eyes met John's, and in that moment, the world around them blurred into insignificance. The shattered dreams of their shared past lay between them, a fragile bridge waiting to be mended or forever lost to the depths of regret.",
+  
+        "rating": 4.2
+    },
+    {
+        "image": "https://i.ibb.co/hHrKHYj/drama2.jpg",
+        "name": "Fading Shadows",
+        "author": "Michael Brown",
+        "category": "Drama",
+        "sampleContent": "The room was heavy with unspoken words, each silence echoing the pain of broken promises. Sarah's eyes met John's, and in that moment, the world around them blurred into insignificance. The shattered dreams of their shared past lay between them, a fragile bridge waiting to be mended or forever lost to the depths of regret.",
+        "rating": 4.6
+    },
+    {
+        "image": "https://i.ibb.co/23sYYmJ/drama3.jpg",
+        "name": "Bittersweet Melodies",
+        "author": "Julia Martinez",
+        "category": "Drama",
+        "sampleContent": "The room was heavy with unspoken words, each silence echoing the pain of broken promises. Sarah's eyes met John's, and in that moment, the world around them blurred into insignificance. The shattered dreams of their shared past lay between them, a fragile bridge waiting to be mended or forever lost to the depths of regret.",
+        "rating": 4.1
+    },
+    {
+        "image": "https://i.ibb.co/0VHXYmK/drama4.jpg",
+        "name": "The Broken Strings",
+        "author": "Andrew Turner",
+        "category": "Drama",
+        "sampleContent": "The room was heavy with unspoken words, each silence echoing the pain of broken promises. Sarah's eyes met John's, and in that moment, the world around them blurred into insignificance. The shattered dreams of their shared past lay between them, a fragile bridge waiting to be mended or forever lost to the depths of regret.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/vkpKbVr/trill1.jpg",
+        "name": "The Sinister Pact",
+        "author": "Sophie Robinson",
+        "category": "Thriller",
+        "sampleContent": "The red sun dipped below the horizon, casting crimson shadows across the cityscape. Maya's heart raced as she deciphered the encrypted message, revealing a plot that threatened to plunge the world into chaos. With unwavering determination, she embarked on a perilous journey, chasing shadows in the dark corners of the globe, determined to expose the truth before it was too late.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/BcXHh1t/tril2.jpg",
+        "name": "Dangerous Alliances",
+        "author": "Mark Davis",
+        "category": "Thriller",
+        "sampleContent": "The red sun dipped below the horizon, casting crimson shadows across the cityscape. Maya's heart raced as she deciphered the encrypted message, revealing a plot that threatened to plunge the world into chaos. With unwavering determination, she embarked on a perilous journey, chasing shadows in the dark corners of the globe, determined to expose the truth before it was too late.",
+        "rating": 4.2
+    },
+    {
+        "image": "https://i.ibb.co/S3K90qv/tril3.jpg",
+        "name": "The Silent Observer",
+        "author": "Laura Davis",
+        "category": "Thriller",
+        "sampleContent": "The red sun dipped below the horizon, casting crimson shadows across the cityscape. Maya's heart raced as she deciphered the encrypted message, revealing a plot that threatened to plunge the world into chaos. With unwavering determination, she embarked on a perilous journey, chasing shadows in the dark corners of the globe, determined to expose the truth before it was too late.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/D7XFPf0/tril4.jpg",
+        "name": "Whispers of Fear",
+        "author": "David Johnson",
+        "category": "Thriller",
+        "sampleContent": "The red sun dipped below the horizon, casting crimson shadows across the cityscape. Maya's heart raced as she deciphered the encrypted message, revealing a plot that threatened to plunge the world into chaos. With unwavering determination, she embarked on a perilous journey, chasing shadows in the dark corners of the globe, determined to expose the truth before it was too late.",
+        "rating": 4.3
+    },
+    {
+        "image": "https://i.ibb.co/SnVPvbY/his5.jpg",
+        "name": "Chronicles of Civilization",
+        "author": "Sarah Adams",
+        "category": "History",
+        "sampleContent": "Amidst the ruins of a forgotten city, archaeologists unearthed artifacts that spoke of a time long past. The intricate carvings on weathered stones told stories of kings and conquerors, their ambitions immortalized in the annals of history. With every discovery, the echoes of antiquity reverberated through the ages, connecting the present to a distant past, reminding us that the foundations of our world were laid by the hands of those who came before us.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/1zngVHC/his2.jpg",
+        "name": "Forgotten Empires",
+        "author": "Daniel Lee",
+        "category": "History",
+        "sampleContent": "Amidst the ruins of a forgotten city, archaeologists unearthed artifacts that spoke of a time long past. The intricate carvings on weathered stones told stories of kings and conquerors, their ambitions immortalized in the annals of history. With every discovery, the echoes of antiquity reverberated through the ages, connecting the present to a distant past, reminding us that the foundations of our world were laid by the hands of those who came before us.",
+        "rating": 4.4
+    },
+    {
+        "image": "https://i.ibb.co/Yp9TZdN/his3.jpg",
+        "name": "Echoes of Empires",
+        "author": "Laura Turner",
+        "category": "History",
+        "sampleContent": "Amidst the ruins of a forgotten city, archaeologists unearthed artifacts that spoke of a time long past. The intricate carvings on weathered stones told stories of kings and conquerors, their ambitions immortalized in the annals of history. With every discovery, the echoes of antiquity reverberated through the ages, connecting the present to a distant past, reminding us that the foundations of our world were laid by the hands of those who came before us.",
+        "rating": 4.6
+    },
+    {
+        "image": "https://i.ibb.co/v4W1J2n/his4.jpg",
+        "name": "Lost Civilizations",
+        "author": "Jonathan Baker",
+        "category": "History",
+        "sampleContent": "Amidst the ruins of a forgotten city, archaeologists unearthed artifacts that spoke of a time long past. The intricate carvings on weathered stones told stories of kings and conquerors, their ambitions immortalized in the annals of history. With every discovery, the echoes of antiquity reverberated through the ages, connecting the present to a distant past, reminding us that the foundations of our world were laid by the hands of those who came before us.",
+        "rating": 4.3
+    }
+]
